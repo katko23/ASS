@@ -1,4 +1,4 @@
-# PAD_Suplimentar
+# ASS
 
 ## Main Ideea
 soo the main ideea is an app with 2 microservices both in python, and a gateway in JS, one microservice get all the statistic about covid 19 from web, and the second one get some news, also in the second I have a search 
